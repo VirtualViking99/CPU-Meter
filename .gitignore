@@ -1,0 +1,12 @@
+# Build outputs
+cpu-meter
+*.o
+
+# Packaging output
+pkg/
+
+# VS Code
+.vscode/
+
+# OS junk
+.DS_Store
